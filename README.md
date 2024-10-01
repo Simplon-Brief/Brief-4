@@ -2,7 +2,7 @@ Quel le nombre de livres et le prix moyen qu'on retrouve dans chacune des catég
 Category.py
 
 
-Avant de répondre aux questions suivantes, il faudra d'abord se connecter au site web
+Avant de répondre aux questions suivantes, il faudra d'abord se connecter au site web:
 scrap-login.py
 
 ​
